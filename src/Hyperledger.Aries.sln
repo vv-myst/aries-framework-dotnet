@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hyperledger.Aries.Routing.E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hyperledger.Aries.AspNetCore.Contracts", "Hyperledger.Aries.AspNetCore.Contracts\Hyperledger.Aries.AspNetCore.Contracts.csproj", "{C35CAB46-4192-4BED-BB1A-0956B5136E96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAgent", "..\samples\aspnetcore\WebAgent.csproj", "{B0A0D9E5-C4ED-416A-AFB8-680D21CA4A60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{C35CAB46-4192-4BED-BB1A-0956B5136E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C35CAB46-4192-4BED-BB1A-0956B5136E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C35CAB46-4192-4BED-BB1A-0956B5136E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A0D9E5-C4ED-416A-AFB8-680D21CA4A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A0D9E5-C4ED-416A-AFB8-680D21CA4A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A0D9E5-C4ED-416A-AFB8-680D21CA4A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A0D9E5-C4ED-416A-AFB8-680D21CA4A60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

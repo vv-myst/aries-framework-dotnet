@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using Hyperledger.Aries.Models.Records;
-using Hyperledger.Aries.Features.DidExchange;
+using Hyperledger.Aries.Features.Handshakes.Common;
 
 namespace WebAgent.Models
 {

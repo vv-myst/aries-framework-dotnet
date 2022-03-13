@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using Hyperledger.Aries.Features.DidExchange;
+using Hyperledger.Aries.Features.Handshakes.Common;
 using WebAgent.Protocols.BasicMessage;
 
 namespace WebAgent.Models
